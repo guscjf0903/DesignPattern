@@ -1,0 +1,8 @@
+rootProject.name = 'DesignPattern'
+include 'FactoryPattern'
+include 'Builder'
+include 'AbstractFactory'
+include 'Composite'
+include 'Proxy'
+include 'Singleton'
+
